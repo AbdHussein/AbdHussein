@@ -8,7 +8,6 @@ I love building software.
 
 * 🌍  I'm based in Gaza, Palestine 🇵🇸
 * ✉️  You can contact me at [abdulrahmaanhussein97@gmail.com](mailto:abdulrahmaanhussein97@gmail.com)
-* 🚀  I'm currently working on [Gamiphy](http://gamiphy.co/)
 * 🤝  I'm open to collaborating on anything built with JavaScript or TypeScript
 
 ### Skills
