@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full-Stack Software Engineer
 ----------------------------
 
-I love building software.
+I enjoy building software.
 
 * 🌍  I'm based in Gaza, Palestine 🇵🇸
 * ✉️  You can contact me at [abdulrahmaanhussein97@gmail.com](mailto:abdulrahmaanhussein97@gmail.com)
