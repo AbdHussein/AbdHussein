@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Abdulrahmaan Hussein
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), It's Abdulrahmaan
 ============================================================================================================================================
 
 Full-Stack Software Engineer
@@ -8,7 +8,7 @@ I enjoy building software.
 
 * 🌍  I'm based in Gaza, Palestine 🇵🇸
 * ✉️  You can contact me at [abdulrahmaanhussein97@gmail.com](mailto:abdulrahmaanhussein97@gmail.com)
-* 🤝  I'm open to collaborating on anything built with JavaScript or TypeScript
+* 🤝  I'm open to collaborating on interesting softwares
 
 ### Skills
 
